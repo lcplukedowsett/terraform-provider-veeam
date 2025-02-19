@@ -3,6 +3,7 @@ package main
 import (
     "github.com/hashicorp/terraform-plugin-sdk/v2/plugin"
     "github.com/hashicorp/terraform/terraform"
+    "terraform-provider-veeam/veeam"
 )
 
 func main() {

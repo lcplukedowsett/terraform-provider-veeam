@@ -37,7 +37,6 @@ func dataSourceJob() *schema.Resource {
 				Type:     schema.TypeBool,
 				Computed: true,
 			},
-			// ...other fields as needed...
 		},
 	}
 }
