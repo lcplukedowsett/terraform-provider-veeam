@@ -25,7 +25,7 @@ jobs:
     - task: DownloadSecureFile@1
       name: gpgKey
       inputs:
-        secureFile: 'veeam-private-key.gpg'
+        secureFile: 'private-key2.gpg'
 
     - script: |
         echo "Checking the GPG key file..."
