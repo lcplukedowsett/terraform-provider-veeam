@@ -1,4 +1,4 @@
-module github.com/lcplukedowsett/terraform-provider-veeam
+module github.com/lcp-llp/terraform-provider-veeam
 
 go 1.23.3
 

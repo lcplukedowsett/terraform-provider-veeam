@@ -11,7 +11,7 @@ terraform {
   required_providers {
     bytes = {
       version = "~> 0.2.5"
-      source  = "lcplukedowsett/veeam"
+      source  = "lcp-llp/veeam"
     }
   }
 }

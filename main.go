@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/lcplukedowsett/terraform-provider-veeam/veeam"
+	"github.com/lcp-llp/terraform-provider-veeam/veeam"
 
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/plugin"
